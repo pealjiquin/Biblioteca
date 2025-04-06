@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
 import BookList from './components/BookList';
 
@@ -11,4 +11,3 @@ function App() {
 }
 
 export default App;
-
